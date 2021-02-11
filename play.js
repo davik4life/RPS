@@ -83,7 +83,7 @@ if((repeat != null || repeat != undefined) && repeat == "yes"){
 	reset();
 	game();
 }else if (repeat == "no"){
-	console.log("Goodbye!!!");
+	console.log("Thanks for your time. To play again, just call game(), Goodbye!!!");
 	reset();
 }
 
